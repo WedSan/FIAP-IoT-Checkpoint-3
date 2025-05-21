@@ -5,6 +5,9 @@
 Este projeto utiliza um ESP32 para monitorar e enviar, via MQTT, informações de temperatura, umidade, pressão e altitude. Os dados são enviados de forma periódica para um broker MQTT e podem ser visualizados em qualquer cliente compatível (no caso o Node-RED).
 
 ---
+### Link video youtube: https://youtu.be/lPFVAqnqGAE
+
+---
 
 ## 🛠️ Funcionalidades
 
