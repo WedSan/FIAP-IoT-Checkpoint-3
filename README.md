@@ -1,4 +1,4 @@
-# 🌡️💡 Projeto IoT ESP32: Monitoramento de Temperatura, Umidade, Pressão, Altitude com protocolo MQTT
+# Checkpoint 3 Projeto IoT ESP32: Monitoramento de Temperatura, Umidade, Pressão, Altitude com protocolo MQTT
 
 ## 🚀 Sobre o Projeto
 
